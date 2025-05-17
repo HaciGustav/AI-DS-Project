@@ -1,0 +1,8 @@
+DATASET
+
+- cardboard: 403
+- glass: 501
+- metal: 410
+- paper: 594
+- plastic: 482
+- residual: 137
